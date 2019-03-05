@@ -1,4 +1,4 @@
-package site.dongxiaoxu.sunmall;
+package site.dongxiaoxu.sunmall.framework;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

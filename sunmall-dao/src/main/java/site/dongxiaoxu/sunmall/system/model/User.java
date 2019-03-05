@@ -1,7 +1,7 @@
 package site.dongxiaoxu.sunmall.system.model;
 
 import lombok.Data;
-import site.dongxiaoxu.sunmall.BaseModel;
+import site.dongxiaoxu.sunmall.framework.BaseModel;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
